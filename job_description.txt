@@ -1,0 +1,1 @@
+We are looking for a Data Scientist with experience in Python, machine learning, data analysis, and NLP. The ideal candidate should be familiar with libraries like scikit-learn, pandas, and matplotlib, and have hands-on experience working with real-world datasets.
